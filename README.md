@@ -1,5 +1,5 @@
 # Mask_Detector
-##Detecting Face Mask  :)<br>
+## Detecting Face Mask  :)<br>
 A simple tool for performing face detection, and then classifying the face as with mask or without mask.
 
 

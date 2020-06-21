@@ -10,8 +10,11 @@ Main Contributer @[shivamsingh2307](https://github.com/shivamsingh2307),
                  Demo Link: [Live](http://maskdetector.netlify.com) <br>
                  Poject Submission link:[link](https://devfolio.co/submissions/maskdetector)<br>
                  App Development under construction <br>
+![alt-text-1](https://github.com/Leoperon/Mask_Detector/tree/master/Razor/img1 "title-1") 
+![alt-text-2](https://github.com/Leoperon/Mask_Detector/tree/master/Razor/img2 "title-2") 
+
                  
-If u like our project, give us a star, and follow our profile for future projects updates.
+<br>If u like our project, give us a star, and follow our profile for future projects updates.
 
 HappyCoding :)
            

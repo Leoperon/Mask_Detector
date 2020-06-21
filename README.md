@@ -14,8 +14,8 @@ Main Contributer @[shivamsingh2307](https://github.com/shivamsingh2307),
 
 <table>
   <tr>
-    <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG5.png" width=270 height=480></td>
-    <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG4.png" width=270 height=480></td>
+    <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG5.png" width=270 height=480><br>
+    <img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG4.png" width=270 height=480></td>
     <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG3.png" width=270 height=480></td>
     <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG2.png" width=270 height=480></td>
     <td><img src="https://github.com/Leoperon/Mask_Detector/blob/master/Razor/IMG1.jpeg" width=270 height=480></td>

@@ -8,5 +8,10 @@ Main Contributer @[shivamsingh2307](https://github.com/shivamsingh2307),
                  @[Leoperon](https://github.com/leoperon),
                  @[vishnukalyan](https://github.com/vishnukalyan)<br>
                  Demo Link: [Live](http://maskdetector.netlify.com) <br>
-                 App Development under construction 
+                 Poject Submission link:[link](https://devfolio.co/submissions/maskdetector)<br>
+                 App Development under construction <br>
+                 
+If u like our project, give us a star, and follow our profile for future projects updates.
+
+HappyCoding :)
            
